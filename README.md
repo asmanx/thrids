@@ -15,3 +15,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Anggota Kelompok:
+1. Asman (113)
+2. Nayla Zambrudyah Azzahra (134)
+3. Cintya Fahmi Fachriza Aulia (137)
+4. Seha Masyrifah (140)
+5. Efrida Eka Marenti (273)
+
+Panduan Singkat:
