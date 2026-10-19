@@ -7,8 +7,8 @@ Anggota Kelompok:
 4. Seha Masyrifah (140)
 5. Efrida Eka Marenti (273)
 
-Nama Aplikasi: Thrids
-Aplikasi yang Direplikasi: Threads
+- Nama Aplikasi: Thrids
+- Aplikasi yang Direplikasi: Threads
 
 Thrids merupakan aplikasi media sosial berbasis mobile yang dikembangkan dengan mereplikasi dari aplikasi Threads. Aplikasi ini memungkinkan pengguna untuk membagikan tulisan, gambar, dan konten lainnya, melihat postingan pengguna lain, serta berinteraksi dengan sesama pengguna (user). berikut panduan singkat tentang 5 fitur utama aplikasi thrids:
 
